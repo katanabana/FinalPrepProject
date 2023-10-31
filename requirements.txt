@@ -1,0 +1,7 @@
+sqlalchemy~=2.0.20
+pyodbc
+PyQt5~=5.15.9
+pillow~=10.0.1
+reportlab~=4.0.5
+numpy
+matplotlib
